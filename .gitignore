@@ -1,0 +1,5 @@
+.python-version
+env.json
+local_env.json
+tmp/
+
